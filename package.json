@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-workable-node",
+  "version": "1.0.0",
+  "description": "Base set of eslint rules for all Workable node projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Workable/eslint-workable-node.git"
+  },
+  "author": "Sokratis Vidros <sokratis@workable.com>",
+  "license": "UNLINCENSED",
+  "bugs": {
+    "url": "https://github.com/Workable/eslint-workable-node/issues"
+  },
+  "homepage": "https://github.com/Workable/eslint-workable-node#readme",
+  "dependencies": {
+    "eslint-plugin-security": "^1.3.0"
+  }
+}
